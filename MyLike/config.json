@@ -1,0 +1,27 @@
+{
+  "username": "tanglehui@esy-erp.com",
+  "passWord": "Abcd123456",
+  "url": "https://www.bniconnectglobal.com",
+  "urlTwo": "https://www.bniconnectglobal.com/web/secure/reportsHome#reportsactiontabcontentstructurechapter",
+  "startDate": "09/03/2022",
+  "overDate": "09/06/2022",
+  "assignUser": "None",  "assignUser示例": "# name | None  含有指定人就不会遍历下载所有文件",
+  "exePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "downloadPath": "\\data","文件下载路径": "可修改",
+  "idsList | noidsList":"idsList | noidsList控制循环名单 ** 循环名单指定用户可能会出错",
+  "idsList":[
+    {
+      "username": "253791450@qq.com",
+      "passWord": "Xhy780918"
+    },
+    {
+      "username": "tanglehui@esy-erp.com",
+      "passWord": "Abcd123456"
+    },
+    {
+      "username": "540404429@qq.com",
+      "passWord": "Godfather7"
+    }
+  ],
+  "fourFormLocation": "\\fourForm"
+}

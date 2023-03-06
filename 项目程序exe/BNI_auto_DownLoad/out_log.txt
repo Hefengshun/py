@@ -1,0 +1,824 @@
+9823002@qq.com Hb+790910 https://www.bniconnectglobal.com https://www.bniconnectglobal.com/web/secure/reportsHome#reportsactiontabcontentstructurechapter C:\Program Files\Google\Chrome\Application\chrome.exe \data 09/03/2012 31/12/2022 None \fourForm 拿到配置信息
+0 {'username': '253791450@qq.com', 'passWord': 'Xhy780918'} 多个用户账户时，当前的账户！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+四张表开始
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+第一个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A69D0> 获取指定iframe
+第二个开始
+---  new folder...  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6DF0> 获取指定iframe
+第三个开始
+---  new folder...  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6370> 获取指定iframe
+第四个开始
+---  new folder...  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3AFA0> 获取指定iframe
+四张表完成
+---  new folder...  ---
+---  new folder...  ---
+---  new folder...  ---
+[{'value': '2512531', 'state': 'NO', 'text': '余 升平'}, {'value': '2474681', 'state': 'NO', 'text': '刘 信明'}, {'value': '2474888', 'state': 'NO', 'text': '刘 金花'}, {'value': '2512513', 'state': 'NO', 'text': '卓 安'}, {'value': '2474843', 'state': 'NO', 'text': '吴 昱尚'}, {'value': '2474647', 'state': 'NO', 'text': '吴 湘健'}, {'value': '2475219', 'state': 'NO', 'text': '宋 欣芮'}, {'value': '2474769', 'state': 'NO', 'text': '张 小璇'}, {'value': '2474643', 'state': 'NO', 'text': '张 少轩'}, {'value': '2547733', 'state': 'NO', 'text': '张 思哲'}, {'value': '2656128', 'state': 'NO', 'text': '彭 媛'}, {'value': '2598694', 'state': 'NO', 'text': '彭 潜'}, {'value': '2644354', 'state': 'NO', 'text': '徐 司龙'}, {'value': '2474688', 'state': 'NO', 'text': '曾 尚林'}, {'value': '2474756', 'state': 'NO', 'text': '曾 玫仁'}, {'value': '2474808', 'state': 'NO', 'text': '朱 珠'}, {'value': '2656539', 'state': 'NO', 'text': '朱 雅文'}, {'value': '2547731', 'state': 'NO', 'text': '李 文谊'}, {'value': '2474705', 'state': 'NO', 'text': '李 昊阳'}, {'value': '2695892', 'state': 'NO', 'text': '李 爱华'}, {'value': '2474796', 'state': 'NO', 'text': '杨 宏慧'}, {'value': '2474633', 'state': 'NO', 'text': '温 丽芳'}, {'value': '2695900', 'state': 'NO', 'text': '温 远明'}, {'value': '2695894', 'state': 'NO', 'text': '游 乃世'}, {'value': '2474695', 'state': 'NO', 'text': '王 庆梅'}, {'value': '2512527', 'state': 'NO', 'text': '王 琼滨'}, {'value': '2474801', 'state': 'NO', 'text': '王 耀'}, {'value': '2474693', 'state': 'NO', 'text': '石 灯煌'}, {'value': '2475216', 'state': 'NO', 'text': '程 玲'}, {'value': '2611045', 'state': 'NO', 'text': '童 创'}, {'value': '2547730', 'state': 'NO', 'text': '罗 锐'}, {'value': '2474730', 'state': 'NO', 'text': '舒 达军'}, {'value': '2474785', 'state': 'NO', 'text': '萧 丽珍'}, {'value': '2474712', 'state': 'NO', 'text': '许 海'}, {'value': '2666237', 'state': 'NO', 'text': '谢 菊贞'}, {'value': '2482691', 'state': 'NO', 'text': '贺 利运'}, {'value': '2474915', 'state': 'NO', 'text': '郑 剑曦'}, {'value': '2612757', 'state': 'NO', 'text': '钟 侃宁'}, {'value': '2474667', 'state': 'NO', 'text': '陈 德伦'}, {'value': '2474654', 'state': 'NO', 'text': '陈 淑芳'}, {'value': '2695832', 'state': 'NO', 'text': '陈 辉'}, {'value': '2474735', 'state': 'NO', 'text': '韦 旋娜'}, {'value': '2474661', 'state': 'NO', 'text': '高 凤灵'}, {'value': '2474792', 'state': 'NO', 'text': '黄 云飞'}, {'value': '2512509', 'state': 'NO', 'text': '黄 运谦'}] 获得下拉框的value！！！！！！！！！！！！！！！！
+0 查看index的变化
+NO NO 1 余 升平 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6FD0> 获取指定iframe
+文件1下载完成
+OK NO 2 刘 信明 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A8B0> 获取指定iframe
+文件2下载完成
+OK NO 3 刘 金花 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59850> 获取指定iframe
+文件3下载完成
+OK NO 4 卓 安 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990640> 获取指定iframe
+文件4下载完成
+OK NO 5 吴 昱尚 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3ACA0> 获取指定iframe
+文件5下载完成
+OK NO 6 吴 湘健 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6550> 获取指定iframe
+文件6下载完成
+OK NO 7 宋 欣芮 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA594F0> 获取指定iframe
+文件7下载完成
+OK NO 8 张 小璇 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC280> 获取指定iframe
+文件8下载完成
+OK NO 9 张 少轩 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A040> 获取指定iframe
+文件9下载完成
+OK NO 10 张 思哲 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A6D0> 获取指定iframe
+文件10下载完成
+OK NO 11 彭 媛 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990EB0> 获取指定iframe
+文件11下载完成
+OK NO 12 彭 潜 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A610> 获取指定iframe
+文件12下载完成
+OK NO 13 徐 司龙 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A130> 获取指定iframe
+文件13下载完成
+OK NO 14 曾 尚林 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCF70> 获取指定iframe
+文件14下载完成
+OK NO 15 曾 玫仁 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59A30> 获取指定iframe
+文件15下载完成
+OK NO 16 朱 珠 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990AF0> 获取指定iframe
+文件16下载完成
+OK NO 17 朱 雅文 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59E20> 获取指定iframe
+文件17下载完成
+OK NO 18 李 文谊 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9907F0> 获取指定iframe
+文件18下载完成
+OK NO 19 李 昊阳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3AB50> 获取指定iframe
+文件19下载完成
+OK NO 20 李 爱华 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA590D0> 获取指定iframe
+文件20下载完成
+OK NO 21 杨 宏慧 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6940> 获取指定iframe
+文件21下载完成
+OK NO 22 温 丽芳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3AAF0> 获取指定iframe
+文件22下载完成
+OK NO 23 温 远明 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3AD00> 获取指定iframe
+文件23下载完成
+OK NO 24 游 乃世 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC430> 获取指定iframe
+文件24下载完成
+OK NO 25 王 庆梅 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9901C0> 获取指定iframe
+文件25下载完成
+OK NO 26 王 琼滨 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A5B0> 获取指定iframe
+文件26下载完成
+OK NO 27 王 耀 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9909A0> 获取指定iframe
+文件27下载完成
+OK NO 28 石 灯煌 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A66A0> 获取指定iframe
+文件28下载完成
+OK NO 29 程 玲 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3ABE0> 获取指定iframe
+文件29下载完成
+OK NO 30 童 创 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59280> 获取指定iframe
+文件30下载完成
+OK NO 31 罗 锐 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6040> 获取指定iframe
+文件31下载完成
+OK NO 32 舒 达军 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCD00> 获取指定iframe
+文件32下载完成
+OK NO 33 萧 丽珍 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6E20> 获取指定iframe
+文件33下载完成
+OK NO 34 许 海 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59610> 获取指定iframe
+文件34下载完成
+OK NO 35 谢 菊贞 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59250> 获取指定iframe
+文件35下载完成
+OK NO 36 贺 利运 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6850> 获取指定iframe
+文件36下载完成
+OK NO 37 郑 剑曦 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59400> 获取指定iframe
+文件37下载完成
+OK NO 38 钟 侃宁 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990BE0> 获取指定iframe
+文件38下载完成
+OK NO 39 陈 德伦 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC7F0> 获取指定iframe
+文件39下载完成
+OK NO 40 陈 淑芳 当前进行的下载项
+None 获取指定iframe
+文件40下载失败 重新下载
+OK NO 40 陈 淑芳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6340> 获取指定iframe
+文件40下载完成
+OK NO 41 陈 辉 当前进行的下载项
+None 获取指定iframe
+文件41下载失败 重新下载
+OK NO 41 陈 辉 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59FD0> 获取指定iframe
+文件41下载完成
+OK NO 42 韦 旋娜 当前进行的下载项
+None 获取指定iframe
+文件42下载失败 重新下载
+OK NO 42 韦 旋娜 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCC10> 获取指定iframe
+文件42下载完成
+OK NO 43 高 凤灵 当前进行的下载项
+None 获取指定iframe
+文件43下载失败 重新下载
+OK NO 43 高 凤灵 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6DF0> 获取指定iframe
+文件43下载完成
+OK NO 44 黄 云飞 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D64C0> 获取指定iframe
+文件44下载完成
+OK NO 45 黄 运谦 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990580> 获取指定iframe
+文件45下载完成
+1 {'username': '1181680117@qq.com', 'passWord': 'Wxw123456'} 多个用户账户时，当前的账户！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+四张表开始
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+第一个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F850> 获取指定iframe
+第二个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56E20> 获取指定iframe
+第三个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F070> 获取指定iframe
+第四个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56BB0> 获取指定iframe
+四张表完成
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+[{'value': '2488290', 'state': 'NO', 'text': '丁 翊'}, {'value': '2488385', 'state': 'NO', 'text': '万 亭'}, {'value': '2488281', 'state': 'NO', 'text': '乾 源'}, {'value': '2537664', 'state': 'NO', 'text': '任 燕'}, {'value': '2488335', 'state': 'NO', 'text': '刘 向蓉'}, {'value': '2656616', 'state': 'NO', 'text': '刘 小玲'}, {'value': '2488374', 'state': 'NO', 'text': '南 晓丽'}, {'value': '2488333', 'state': 'NO', 'text': '卜 浩'}, {'value': '2488230', 'state': 'NO', 'text': '叶 迈镁'}, {'value': '2548284', 'state': 'NO', 'text': '唐 淑敏'}, {'value': '2488381', 'state': 'NO', 'text': '岳 鑫'}, {'value': '2538139', 'state': 'NO', 'text': '张 婧姝'}, {'value': '2488780', 'state': 'NO', 'text': '彭 蓉萍'}, {'value': '2548104', 'state': 'NO', 'text': '徐 小静'}, {'value': '2530541', 'state': 'NO', 'text': '方 泽伟'}, {'value': '2488350', 'state': 'NO', 'text': '李 唯一'}, {'value': '2548281', 'state': 'NO', 'text': '李 国源'}, {'value': '2548321', 'state': 'NO', 'text': '李 巍'}, {'value': '2488243', 'state': 'NO', 'text': '杨 华'}, {'value': '2488369', 'state': 'NO', 'text': '沈 凯彬'}, {'value': '2523102', 'state': 'NO', 'text': '王 小伟'}, {'value': '2488223', 'state': 'NO', 'text': '申 远恒'}, {'value': '2488388', 'state': 'NO', 'text': '罗 莉娜'}, {'value': '2647959', 'state': 'NO', 'text': '肖 俊希'}, {'value': '2657693', 'state': 'NO', 'text': '谢 泽正'}, {'value': '2488304', 'state': 'NO', 'text': '邱 悦恬'}, {'value': '2488308', 'state': 'NO', 'text': '郑 燕珊'}, {'value': '2488220', 'state': 'NO', 'text': '郝 晨竣'}, {'value': '2548164', 'state': 'NO', 'text': '阮 志'}, {'value': '2488226', 'state': 'NO', 'text': '韩 冰'}, {'value': '2647961', 'state': 'NO', 'text': '鲍 蕾'}, {'value': '2488352', 'state': 'NO', 'text': '黄 品源'}, {'value': '2488345', 'state': 'NO', 'text': '黄 铭'}, {'value': '2488311', 'state': 'NO', 'text': '黄 长城'}, {'value': '2488390', 'state': 'NO', 'text': '龙 光琪'}] 获得下拉框的value！！！！！！！！！！！！！！！！
+0 查看index的变化
+NO NO 1 丁 翊 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B946A60> 获取指定iframe
+文件1下载完成
+OK NO 2 万 亭 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B968280> 获取指定iframe
+文件2下载完成
+OK NO 3 乾 源 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9462E0> 获取指定iframe
+文件3下载完成
+OK NO 4 任 燕 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56B80> 获取指定iframe
+文件4下载完成
+OK NO 5 刘 向蓉 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F220> 获取指定iframe
+文件5下载完成
+OK NO 6 刘 小玲 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4D90> 获取指定iframe
+文件6下载完成
+OK NO 7 南 晓丽 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9466A0> 获取指定iframe
+文件7下载完成
+OK NO 8 卜 浩 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F040> 获取指定iframe
+文件8下载完成
+OK NO 9 叶 迈镁 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FF10> 获取指定iframe
+文件9下载完成
+OK NO 10 唐 淑敏 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B946670> 获取指定iframe
+文件10下载完成
+OK NO 11 岳 鑫 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4430> 获取指定iframe
+文件11下载完成
+OK NO 12 张 婧姝 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56670> 获取指定iframe
+文件12下载完成
+OK NO 13 彭 蓉萍 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F820> 获取指定iframe
+文件13下载完成
+OK NO 14 徐 小静 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E47F0> 获取指定iframe
+文件14下载完成
+OK NO 15 方 泽伟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B946CA0> 获取指定iframe
+文件15下载完成
+OK NO 16 李 唯一 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F700> 获取指定iframe
+文件16下载完成
+OK NO 17 李 国源 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E47C0> 获取指定iframe
+文件17下载完成
+OK NO 18 李 巍 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56160> 获取指定iframe
+文件18下载完成
+OK NO 19 杨 华 当前进行的下载项
+None 获取指定iframe
+文件19下载失败 重新下载
+OK NO 19 杨 华 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FFA0> 获取指定iframe
+文件19下载完成
+OK NO 20 沈 凯彬 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FB80> 获取指定iframe
+文件20下载完成
+OK NO 21 王 小伟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56C40> 获取指定iframe
+文件21下载完成
+OK NO 22 申 远恒 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F910> 获取指定iframe
+文件22下载完成
+OK NO 23 罗 莉娜 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F880> 获取指定iframe
+文件23下载完成
+OK NO 24 肖 俊希 当前进行的下载项
+None 获取指定iframe
+文件24下载失败 重新下载
+OK NO 24 肖 俊希 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56400> 获取指定iframe
+文件24下载完成
+OK NO 25 谢 泽正 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B946D90> 获取指定iframe
+文件25下载完成
+OK NO 26 邱 悦恬 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA56C70> 获取指定iframe
+文件26下载完成
+OK NO 27 郑 燕珊 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FB20> 获取指定iframe
+文件27下载完成
+OK NO 28 郝 晨竣 当前进行的下载项
+None 获取指定iframe
+文件28下载失败 重新下载
+OK NO 28 郝 晨竣 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4E50> 获取指定iframe
+文件28下载完成
+OK NO 29 阮 志 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FE20> 获取指定iframe
+文件29下载完成
+OK NO 30 韩 冰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B946220> 获取指定iframe
+文件30下载完成
+OK NO 31 鲍 蕾 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9397F0> 获取指定iframe
+文件31下载完成
+OK NO 32 黄 品源 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F340> 获取指定iframe
+文件32下载完成
+OK NO 33 黄 铭 当前进行的下载项
+None 获取指定iframe
+文件33下载失败 重新下载
+OK NO 33 黄 铭 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9390A0> 获取指定iframe
+文件33下载完成
+OK NO 34 黄 长城 当前进行的下载项
+None 获取指定iframe
+文件34下载失败 重新下载
+OK NO 34 黄 长城 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E43A0> 获取指定iframe
+文件34下载完成
+OK NO 35 龙 光琪 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B939370> 获取指定iframe
+文件35下载完成
+2 {'username': '184222588@qq.com', 'passWord': 'Lln237234'} 多个用户账户时，当前的账户！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+四张表开始
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+第一个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9523A0> 获取指定iframe
+第二个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97BCD0> 获取指定iframe
+第三个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9520D0> 获取指定iframe
+第四个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97BF10> 获取指定iframe
+四张表完成
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+[{'value': '2526686', 'state': 'NO', 'text': '冯 华玲'}, {'value': '1480761', 'state': 'NO', 'text': '刘 定邦'}, {'value': '2463120', 'state': 'NO', 'text': '刘 美丽'}, {'value': '2359594', 'state': 'NO', 'text': '古 苑钰'}, {'value': '2339228', 'state': 'NO', 'text': '古 雅新'}, {'value': '2546778', 'state': 'NO', 'text': '叶 现意'}, {'value': '2641279', 'state': 'NO', 'text': '吴 基列'}, {'value': '2701435', 'state': 'NO', 'text': '吴 江柱'}, {'value': '2337526', 'state': 'NO', 'text': '崔 丽敏'}, {'value': '2571996', 'state': 'NO', 'text': '张 伟洪'}, {'value': '1787486', 'state': 'NO', 'text': '张 建耀'}, {'value': '2682845', 'state': 'NO', 'text': '张 豹'}, {'value': '2337557', 'state': 'NO', 'text': '易 嘉明'}, {'value': '1914981', 'state': 'NO', 'text': '曾 伟健'}, {'value': '2639928', 'state': 'NO', 'text': '曾 可楠'}, {'value': '2692142', 'state': 'NO', 'text': '曾 皙涵'}, {'value': '2242237', 'state': 'NO', 'text': '朱 盛艳'}, {'value': '2576676', 'state': 'NO', 'text': '李 国明'}, {'value': '2094026', 'state': 'NO', 'text': '杨 林君'}, {'value': '2432144', 'state': 'NO', 'text': '林 德鑫'}, {'value': '1766647', 'state': 'NO', 'text': '欧 少立'}, {'value': '2639939', 'state': 'NO', 'text': '殷 建琪'}, {'value': '2337545', 'state': 'NO', 'text': '殷 长青'}, {'value': '2689242', 'state': 'NO', 'text': '沈 红艳'}, {'value': '1854439', 'state': 'NO', 'text': '王 平'}, {'value': '2187969', 'state': 'NO', 'text': '王 彪'}, {'value': '1749616', 'state': 'NO', 'text': '王 晓博'}, {'value': '2490073', 'state': 'NO', 'text': '王 淑娟'}, {'value': '2626158', 'state': 'NO', 'text': '石 丽萍'}, {'value': '2586575', 'state': 'NO', 'text': '练 畅亮'}, {'value': '1766663', 'state': 'NO', 'text': '胡 鼎'}, {'value': '2437916', 'state': 'NO', 'text': '许 晶品'}, {'value': '2683126', 'state': 'NO', 'text': '谢 宇健'}, {'value': '2480110', 'state': 'NO', 'text': '谢 文模'}, {'value': '2594506', 'state': 'NO', 'text': '谢 芳'}, {'value': '2641317', 'state': 'NO', 'text': '赖 树翁'}, {'value': '2173605', 'state': 'NO', 'text': '赖 淑芬'}, {'value': '2173607', 'state': 'NO', 'text': '陆 冰'}, {'value': '2692195', 'state': 'NO', 'text': '陈 品妡'}, {'value': '2091998', 'state': 'NO', 'text': '陈 楚华'}, {'value': '2517346', 'state': 'NO', 'text': '陈 红菊'}, {'value': '2337550', 'state': 'NO', 'text': '陈 露'}, {'value': '2623732', 'state': 'NO', 'text': '高 超'}, {'value': '2639924', 'state': 'NO', 'text': '魏 占玲'}, {'value': '2468052', 'state': 'NO', 'text': '鲁 涛涛'}, {'value': '2338090', 'state': 'NO', 'text': '黄 兵'}, {'value': '2706661', 'state': 'NO', 'text': '黄 奕娜'}, {'value': '2625627', 'state': 'NO', 'text': '黄 英'}, {'value': '2539737', 'state': 'NO', 'text': '黄 英俊'}, {'value': '2571174', 'state': 'NO', 'text': '龙 立伟'}] 获得下拉框的value！！！！！！！！！！！！！！！！
+0 查看index的变化
+NO NO 1 冯 华玲 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCA30> 获取指定iframe
+文件1下载完成
+OK NO 2 刘 定邦 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA71A00> 获取指定iframe
+文件2下载完成
+OK NO 3 刘 美丽 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA713A0> 获取指定iframe
+文件3下载完成
+OK NO 4 古 苑钰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990430> 获取指定iframe
+文件4下载完成
+OK NO 5 古 雅新 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952520> 获取指定iframe
+文件5下载完成
+OK NO 6 叶 现意 当前进行的下载项
+None 获取指定iframe
+文件6下载失败 重新下载
+OK NO 6 叶 现意 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990250> 获取指定iframe
+文件6下载完成
+OK NO 7 吴 基列 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA719A0> 获取指定iframe
+文件7下载完成
+OK NO 8 吴 江柱 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC490> 获取指定iframe
+文件8下载完成
+OK NO 9 崔 丽敏 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97B2E0> 获取指定iframe
+文件9下载完成
+OK NO 10 张 伟洪 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97BFD0> 获取指定iframe
+文件10下载完成
+OK NO 11 张 建耀 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B990C70> 获取指定iframe
+文件11下载完成
+OK NO 12 张 豹 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC8B0> 获取指定iframe
+文件12下载完成
+OK NO 13 易 嘉明 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97B6D0> 获取指定iframe
+文件13下载完成
+OK NO 14 曾 伟健 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97B880> 获取指定iframe
+文件14下载完成
+OK NO 15 曾 可楠 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC460> 获取指定iframe
+文件15下载完成
+OK NO 16 曾 皙涵 当前进行的下载项
+None 获取指定iframe
+文件16下载失败 重新下载
+OK NO 16 曾 皙涵 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952EB0> 获取指定iframe
+文件16下载完成
+OK NO 17 朱 盛艳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC430> 获取指定iframe
+文件17下载完成
+OK NO 18 李 国明 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97B160> 获取指定iframe
+文件18下载完成
+OK NO 19 杨 林君 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97BCD0> 获取指定iframe
+文件19下载完成
+OK NO 20 林 德鑫 当前进行的下载项
+None 获取指定iframe
+文件20下载失败 重新下载
+OK NO 20 林 德鑫 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952760> 获取指定iframe
+文件20下载完成
+OK NO 21 欧 少立 当前进行的下载项
+None 获取指定iframe
+文件21下载失败 重新下载
+OK NO 21 欧 少立 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA71BE0> 获取指定iframe
+文件21下载完成
+OK NO 22 殷 建琪 当前进行的下载项
+None 获取指定iframe
+文件22下载失败 重新下载
+OK NO 22 殷 建琪 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9907C0> 获取指定iframe
+文件22下载完成
+OK NO 23 殷 长青 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59B20> 获取指定iframe
+文件23下载完成
+OK NO 24 沈 红艳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9522E0> 获取指定iframe
+文件24下载完成
+OK NO 25 王 平 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC2B0> 获取指定iframe
+文件25下载完成
+OK NO 26 王 彪 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC3D0> 获取指定iframe
+文件26下载完成
+OK NO 27 王 晓博 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952970> 获取指定iframe
+文件27下载完成
+OK NO 28 王 淑娟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA590D0> 获取指定iframe
+文件28下载完成
+OK NO 29 石 丽萍 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97B520> 获取指定iframe
+文件29下载完成
+OK NO 30 练 畅亮 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97BF10> 获取指定iframe
+文件30下载完成
+OK NO 31 胡 鼎 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA592E0> 获取指定iframe
+文件31下载完成
+OK NO 32 许 晶品 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9906D0> 获取指定iframe
+文件32下载完成
+OK NO 33 谢 宇健 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59310> 获取指定iframe
+文件33下载完成
+OK NO 34 谢 文模 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCD60> 获取指定iframe
+文件34下载完成
+OK NO 35 谢 芳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97BD30> 获取指定iframe
+文件35下载完成
+OK NO 36 赖 树翁 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59370> 获取指定iframe
+文件36下载完成
+OK NO 37 赖 淑芬 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA71FA0> 获取指定iframe
+文件37下载完成
+OK NO 38 陆 冰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9529A0> 获取指定iframe
+文件38下载完成
+OK NO 39 陈 品妡 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952D60> 获取指定iframe
+文件39下载完成
+OK NO 40 陈 楚华 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA710A0> 获取指定iframe
+文件40下载完成
+OK NO 41 陈 红菊 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9900D0> 获取指定iframe
+文件41下载完成
+OK NO 42 陈 露 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC850> 获取指定iframe
+文件42下载完成
+OK NO 43 高 超 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A670> 获取指定iframe
+文件43下载完成
+OK NO 44 魏 占玲 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59220> 获取指定iframe
+文件44下载完成
+OK NO 45 鲁 涛涛 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA71610> 获取指定iframe
+文件45下载完成
+OK NO 46 黄 兵 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952580> 获取指定iframe
+文件46下载完成
+OK NO 47 黄 奕娜 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA3A490> 获取指定iframe
+文件47下载完成
+OK NO 48 黄 英 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B97B730> 获取指定iframe
+文件48下载完成
+OK NO 49 黄 英俊 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6400> 获取指定iframe
+文件49下载完成
+OK NO 50 龙 立伟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BC340> 获取指定iframe
+文件50下载完成
+3 {'username': '878487424@qq.com', 'passWord': 'Ljd520025'} 多个用户账户时，当前的账户！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+四张表开始
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+第一个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9538B0> 获取指定iframe
+第二个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8B7550> 获取指定iframe
+第三个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B953EE0> 获取指定iframe
+第四个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F6A0> 获取指定iframe
+四张表完成
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+[{'value': '2172588', 'state': 'NO', 'text': '余 祥周'}, {'value': '2392342', 'state': 'NO', 'text': '刘 宝全'}, {'value': '2547006', 'state': 'NO', 'text': '刘 春芳'}, {'value': '2238566', 'state': 'NO', 'text': '刘 金定'}, {'value': '2120597', 'state': 'NO', 'text': '卢 孟媛'}, {'value': '2120543', 'state': 'NO', 'text': '叶 家毅'}, {'value': '2124887', 'state': 'NO', 'text': '叶 航'}, {'value': '2659163', 'state': 'NO', 'text': '周 华兰'}, {'value': '2120611', 'state': 'NO', 'text': '周 卓伟'}, {'value': '2437178', 'state': 'NO', 'text': '周 妮'}, {'value': '2222723', 'state': 'NO', 'text': '周 志英'}, {'value': '2149397', 'state': 'NO', 'text': '唐 宗圣'}, {'value': '2120564', 'state': 'NO', 'text': '宋 荣宏'}, {'value': '2124344', 'state': 'NO', 'text': '廖 洪辉'}, {'value': '2600422', 'state': 'NO', 'text': '张 帅'}, {'value': '2149407', 'state': 'NO', 'text': '张 春生'}, {'value': '2218983', 'state': 'NO', 'text': '彭 绍辉'}, {'value': '2392353', 'state': 'NO', 'text': '曾 学灿'}, {'value': '2342086', 'state': 'NO', 'text': '朱 胜'}, {'value': '2218981', 'state': 'NO', 'text': '李 朝荣'}, {'value': '2320673', 'state': 'NO', 'text': '李 杰'}, {'value': '2156082', 'state': 'NO', 'text': '李 永霞'}, {'value': '2496277', 'state': 'NO', 'text': '李 琴'}, {'value': '2547779', 'state': 'NO', 'text': '杨 勇'}, {'value': '2120602', 'state': 'NO', 'text': '林 容茂'}, {'value': '2203711', 'state': 'NO', 'text': '段 东泉'}, {'value': '2468980', 'state': 'NO', 'text': '殷 琴（秀莲）'}, {'value': '2253974', 'state': 'NO', 'text': '熊 爱玲'}, {'value': '2124336', 'state': 'NO', 'text': '熊 达'}, {'value': '2342084', 'state': 'NO', 'text': '王 邑'}, {'value': '2165115', 'state': 'NO', 'text': '甘 铖龙'}, {'value': '2490022', 'state': 'NO', 'text': '石 剑鹏'}, {'value': '2124340', 'state': 'NO', 'text': '罗luo 梅兰Candy'}, {'value': '2238561', 'state': 'NO', 'text': '罗 刚'}, {'value': '2490018', 'state': 'NO', 'text': '罗 石清'}, {'value': '2120545', 'state': 'NO', 'text': '肖 永红'}, {'value': '2475555', 'state': 'NO', 'text': '胡 志敏'}, {'value': '2475553', 'state': 'NO', 'text': '胡 菊鸿'}, {'value': '2249372', 'state': 'NO', 'text': '莫 显鑫'}, {'value': '2639499', 'state': 'NO', 'text': '谭 飞'}, {'value': '2120613', 'state': 'NO', 'text': '赵 艳'}, {'value': '2120608', 'state': 'NO', 'text': '邱 伟强'}, {'value': '2448074', 'state': 'NO', 'text': '郭 婵'}, {'value': '2494491', 'state': 'NO', 'text': '陈 坚泽'}, {'value': '2413443', 'state': 'NO', 'text': '陈 春霞'}, {'value': '2681779', 'state': 'NO', 'text': '陈 梅'}, {'value': '2178194', 'state': 'NO', 'text': '陈 蕾宇'}, {'value': '2120580', 'state': 'NO', 'text': '陶 贞洪'}, {'value': '2120555', 'state': 'NO', 'text': '高 青'}, {'value': '2392349', 'state': 'NO', 'text': '黄 庆立'}, {'value': '2231395', 'state': 'NO', 'text': '黄 建军'}, {'value': '2120535', 'state': 'NO', 'text': '黄 翊豪'}, {'value': '2625635', 'state': 'NO', 'text': '龚 洁'}] 获得下拉框的value！！！！！！！！！！！！！！！！
+0 查看index的变化
+NO NO 1 余 祥周 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4EE0> 获取指定iframe
+文件1下载完成
+OK NO 2 刘 宝全 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7CEB0> 获取指定iframe
+文件2下载完成
+OK NO 3 刘 春芳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA93250> 获取指定iframe
+文件3下载完成
+OK NO 4 刘 金定 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FC70> 获取指定iframe
+文件4下载完成
+OK NO 5 卢 孟媛 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA93580> 获取指定iframe
+文件5下载完成
+OK NO 6 叶 家毅 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9536D0> 获取指定iframe
+文件6下载完成
+OK NO 7 叶 航 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FDF0> 获取指定iframe
+文件7下载完成
+OK NO 8 周 华兰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7CA30> 获取指定iframe
+文件8下载完成
+OK NO 9 周 卓伟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FCA0> 获取指定iframe
+文件9下载完成
+OK NO 10 周 妮 当前进行的下载项
+None 获取指定iframe
+文件10下载失败 重新下载
+OK NO 10 周 妮 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA93550> 获取指定iframe
+文件10下载完成
+OK NO 11 周 志英 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9537C0> 获取指定iframe
+文件11下载完成
+OK NO 12 唐 宗圣 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FEE0> 获取指定iframe
+文件12下载完成
+OK NO 13 宋 荣宏 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7C040> 获取指定iframe
+文件13下载完成
+OK NO 14 廖 洪辉 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F700> 获取指定iframe
+文件14下载完成
+OK NO 15 张 帅 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FAF0> 获取指定iframe
+文件15下载完成
+OK NO 16 张 春生 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B953AC0> 获取指定iframe
+文件16下载完成
+OK NO 17 彭 绍辉 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F280> 获取指定iframe
+文件17下载完成
+OK NO 18 曾 学灿 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA936A0> 获取指定iframe
+文件18下载完成
+OK NO 19 朱 胜 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7C9D0> 获取指定iframe
+文件19下载完成
+OK NO 20 李 朝荣 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F640> 获取指定iframe
+文件20下载完成
+OK NO 21 李 杰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6FF40> 获取指定iframe
+文件21下载完成
+OK NO 22 李 永霞 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4670> 获取指定iframe
+文件22下载完成
+OK NO 23 李 琴 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4AF0> 获取指定iframe
+文件23下载完成
+OK NO 24 杨 勇 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F6A0> 获取指定iframe
+文件24下载完成
+OK NO 25 林 容茂 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FA30> 获取指定iframe
+文件25下载完成
+OK NO 26 段 东泉 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA6F400> 获取指定iframe
+文件26下载完成
+OK NO 27 殷 琴（秀莲） 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7C520> 获取指定iframe
+文件27下载完成
+OK NO 28 熊 爱玲 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E47F0> 获取指定iframe
+文件28下载完成
+OK NO 29 熊 达 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B953C40> 获取指定iframe
+文件29下载完成
+OK NO 30 王 邑 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA93790> 获取指定iframe
+文件30下载完成
+OK NO 31 甘 铖龙 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7CF40> 获取指定iframe
+文件31下载完成
+OK NO 32 石 剑鹏 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7CF10> 获取指定iframe
+文件32下载完成
+OK NO 33 罗luo 梅兰Candy 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA938B0> 获取指定iframe
+文件33下载完成
+OK NO 34 罗 刚 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6C10> 获取指定iframe
+文件34下载完成
+OK NO 35 罗 石清 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91F880> 获取指定iframe
+文件35下载完成
+OK NO 36 肖 永红 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FB80> 获取指定iframe
+文件36下载完成
+OK NO 37 胡 志敏 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4AC0> 获取指定iframe
+文件37下载完成
+OK NO 38 胡 菊鸿 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B939910> 获取指定iframe
+文件38下载完成
+OK NO 39 莫 显鑫 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7CBE0> 获取指定iframe
+文件39下载完成
+OK NO 40 谭 飞 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6B20> 获取指定iframe
+文件40下载完成
+OK NO 41 赵 艳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D68B0> 获取指定iframe
+文件41下载完成
+OK NO 42 邱 伟强 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA933A0> 获取指定iframe
+文件42下载完成
+OK NO 43 郭 婵 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8B78E0> 获取指定iframe
+文件43下载完成
+OK NO 44 陈 坚泽 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA7CDC0> 获取指定iframe
+文件44下载完成
+OK NO 45 陈 春霞 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4DF0> 获取指定iframe
+文件45下载完成
+OK NO 46 陈 梅 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D6E80> 获取指定iframe
+文件46下载完成
+OK NO 47 陈 蕾宇 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA93640> 获取指定iframe
+文件47下载完成
+OK NO 48 陶 贞洪 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B91FA90> 获取指定iframe
+文件48下载完成
+OK NO 49 高 青 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4E50> 获取指定iframe
+文件49下载完成
+OK NO 50 黄 庆立 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B8E4400> 获取指定iframe
+文件50下载完成
+OK NO 51 黄 建军 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B946B50> 获取指定iframe
+文件51下载完成
+OK NO 52 黄 翊豪 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA93DC0> 获取指定iframe
+文件52下载完成
+OK NO 53 龚 洁 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9D69D0> 获取指定iframe
+文件53下载完成
+4 {'username': '739273370@qq.com', 'passWord': 'BNIbaorui123'} 多个用户账户时，当前的账户！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+四张表开始
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+第一个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952340> 获取指定iframe
+第二个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA599A0> 获取指定iframe
+第三个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAAC670> 获取指定iframe
+第四个开始
+---  There is this folder!  ---
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59D90> 获取指定iframe
+四张表完成
+---  There is this folder!  ---
+---  There is this folder!  ---
+---  There is this folder!  ---
+[{'value': '2424007', 'state': 'NO', 'text': '万 叶群'}, {'value': '2491946', 'state': 'NO', 'text': '万 长山'}, {'value': '2540856', 'state': 'NO', 'text': '付 杰'}, {'value': '2453559', 'state': 'NO', 'text': '付 荣波'}, {'value': '2360264', 'state': 'NO', 'text': '何 斌'}, {'value': '2360298', 'state': 'NO', 'text': '刘 红'}, {'value': '2545589', 'state': 'NO', 'text': '卓 文根'}, {'value': '2360966', 'state': 'NO', 'text': '南 秀华'}, {'value': '2360974', 'state': 'NO', 'text': '占 小亚'}, {'value': '2420944', 'state': 'NO', 'text': '吴 双'}, {'value': '2499344', 'state': 'NO', 'text': '吴 曙榕'}, {'value': '2383011', 'state': 'NO', 'text': '吴 薇'}, {'value': '2459943', 'state': 'NO', 'text': '周 华娟'}, {'value': '2360907', 'state': 'NO', 'text': '周 厚名'}, {'value': '2360944', 'state': 'NO', 'text': '姚 晓丽'}, {'value': '2510499', 'state': 'NO', 'text': '张 琦'}, {'value': '2533859', 'state': 'NO', 'text': '徐 晓彬'}, {'value': '2420945', 'state': 'NO', 'text': '李 严芳'}, {'value': '2360897', 'state': 'NO', 'text': '杨 远生'}, {'value': '2501144', 'state': 'NO', 'text': '林 子荻'}, {'value': '2502359', 'state': 'NO', 'text': '林 水跃'}, {'value': '2630525', 'state': 'NO', 'text': '胡 兰'}, {'value': '2360887', 'state': 'NO', 'text': '胡 家辉'}, {'value': '2360273', 'state': 'NO', 'text': '薛 雄梅'}, {'value': '2488748', 'state': 'NO', 'text': '许 怀筠'}, {'value': '2549014', 'state': 'NO', 'text': '谢 先龙'}, {'value': '2360261', 'state': 'NO', 'text': '邓 西淳'}, {'value': '2701948', 'state': 'NO', 'text': '邹 桂园'}, {'value': '2545595', 'state': 'NO', 'text': '陈 晋'}, {'value': '2488750', 'state': 'NO', 'text': '陈 鸿'}, {'value': '2360272', 'state': 'NO', 'text': '顾 焕'}, {'value': '2400113', 'state': 'NO', 'text': '高 升'}, {'value': '2579526', 'state': 'NO', 'text': '黄 伟'}, {'value': '2360888', 'state': 'NO', 'text': '黄 华'}, {'value': '2361637', 'state': 'NO', 'text': '黄 婷娣'}, {'value': '2653826', 'state': 'NO', 'text': '黄 子君'}, {'value': '2360953', 'state': 'NO', 'text': '黄 智贵'}, {'value': '2360266', 'state': 'NO', 'text': '齐 金华'}] 获得下拉框的value！！！！！！！！！！！！！！！！
+0 查看index的变化
+NO NO 1 万 叶群 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAACC70> 获取指定iframe
+文件1下载完成
+OK NO 2 万 长山 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952130> 获取指定iframe
+文件2下载完成
+OK NO 3 付 杰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABF490> 获取指定iframe
+文件3下载完成
+OK NO 4 付 荣波 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA716A0> 获取指定iframe
+文件4下载完成
+OK NO 5 何 斌 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAD0340> 获取指定iframe
+文件5下载完成
+OK NO 6 刘 红 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA71CD0> 获取指定iframe
+文件6下载完成
+OK NO 7 卓 文根 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABF040> 获取指定iframe
+文件7下载完成
+OK NO 8 南 秀华 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952CD0> 获取指定iframe
+文件8下载完成
+OK NO 9 占 小亚 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9A6D60> 获取指定iframe
+文件9下载完成
+OK NO 10 吴 双 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABFAC0> 获取指定iframe
+文件10下载完成
+OK NO 11 吴 曙榕 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAAC2E0> 获取指定iframe
+文件11下载完成
+OK NO 12 吴 薇 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952A30> 获取指定iframe
+文件12下载完成
+OK NO 13 周 华娟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAACA00> 获取指定iframe
+文件13下载完成
+OK NO 14 周 厚名 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAACCA0> 获取指定iframe
+文件14下载完成
+OK NO 15 姚 晓丽 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952790> 获取指定iframe
+文件15下载完成
+OK NO 16 张 琦 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAAC040> 获取指定iframe
+文件16下载完成
+OK NO 17 徐 晓彬 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABFD00> 获取指定iframe
+文件17下载完成
+OK NO 18 李 严芳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952E80> 获取指定iframe
+文件18下载完成
+OK NO 19 杨 远生 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59D90> 获取指定iframe
+文件19下载完成
+OK NO 20 林 子荻 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCD90> 获取指定iframe
+文件20下载完成
+OK NO 21 林 水跃 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59EB0> 获取指定iframe
+文件21下载完成
+OK NO 22 胡 兰 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952370> 获取指定iframe
+文件22下载完成
+OK NO 23 胡 家辉 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAACEE0> 获取指定iframe
+文件23下载完成
+OK NO 24 薛 雄梅 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAAC340> 获取指定iframe
+文件24下载完成
+OK NO 25 许 怀筠 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952CA0> 获取指定iframe
+文件25下载完成
+OK NO 26 谢 先龙 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAAC220> 获取指定iframe
+文件26下载完成
+OK NO 27 邓 西淳 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCAC0> 获取指定iframe
+文件27下载完成
+OK NO 28 邹 桂园 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59E80> 获取指定iframe
+文件28下载完成
+OK NO 29 陈 晋 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABF340> 获取指定iframe
+文件29下载完成
+OK NO 30 陈 鸿 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCDC0> 获取指定iframe
+文件30下载完成
+OK NO 31 顾 焕 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABFB20> 获取指定iframe
+文件31下载完成
+OK NO 32 高 升 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA59EE0> 获取指定iframe
+文件32下载完成
+OK NO 33 黄 伟 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAAC6D0> 获取指定iframe
+文件33下载完成
+OK NO 34 黄 华 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B952520> 获取指定iframe
+文件34下载完成
+OK NO 35 黄 婷娣 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BA599A0> 获取指定iframe
+文件35下载完成
+OK NO 36 黄 子君 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BAACF10> 获取指定iframe
+文件36下载完成
+OK NO 37 黄 智贵 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89B9BCD60> 获取指定iframe
+文件37下载完成
+OK NO 38 齐 金华 当前进行的下载项
+<pyppeteer.frame_manager.Frame object at 0x000001B89BABFD60> 获取指定iframe
+文件38下载完成
