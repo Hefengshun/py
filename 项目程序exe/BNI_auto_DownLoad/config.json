@@ -1,6 +1,6 @@
 {
-  "username": "9823002@qq.com",
-  "passWord": "Hb+790910",
+  "username": "",
+  "passWord": "",
   "url": "https://www.bniconnectglobal.com",
   "urlTwo": "https://www.bniconnectglobal.com/web/secure/reportsHome#reportsactiontabcontentstructurechapter",
   "startDate": "09/03/2012",
@@ -11,27 +11,10 @@
   "idsList | noidList":"idsList | noidList控制循环名单 ** 循环名单指定用户可能会出错",
   "idsList":[
     {
-      "username": "253791450@qq.com",
-      "passWord": "Xhy780918"
+      "username": "",
+      "passWord": ""
     },
-     {
-      "username": "1181680117@qq.com",
-      "passWord": "Wxw123456"
-    },
-     {
-      "username": "184222588@qq.com",
-      "passWord": "Lln237234"
-    },
-   
-    {
-      "username": "878487424@qq.com",
-      "passWord": "Ljd520025"
-    },
-
-    {
-      "username": "739273370@qq.com",
-      "passWord": "BNIbaorui123"
-    }
+    
   ],
   "fourFormLocation": "\\fourForm"
 }
